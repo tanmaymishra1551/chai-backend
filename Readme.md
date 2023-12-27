@@ -1,0 +1,1 @@
+Prettier configuration setting option [https://prettier.io/docs/en/configuration.html]
